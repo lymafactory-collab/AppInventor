@@ -1,0 +1,54 @@
+# Privacy Policy
+
+**Last updated:** March 14, 2026
+
+## 1. Introduction
+
+This Privacy Policy describes how our mobile application ("the App") handles information when users access and use the application.
+
+The App provides access to an online web platform through an embedded browser interface. The App itself does not directly collect personal information from users.
+
+## 2. Information Collection
+
+The App does not collect, store, or process personal information directly.
+
+However, when using the App, users may interact with external web services and websites that may collect information according to their own privacy policies.
+
+Such information may include:
+
+* Account information entered by users
+* Usage data
+* Cookies or session identifiers
+* Device information
+
+This information is processed by the external website accessed through the App.
+
+## 3. WebView Content
+
+The App loads content from a third-party website using a secure web connection. Any data entered within the website is handled by that website and not by the App itself.
+
+## 4. Cookies and Tracking
+
+The website displayed in the App may use cookies or similar tracking technologies to improve user experience, maintain sessions, and analyze usage.
+
+## 5. Third-Party Services
+
+The App may rely on third-party services provided by the website loaded within the application. These services may have their own privacy policies governing how they use collected information.
+
+## 6. Data Security
+
+The App does not store user data locally except for temporary caching required to display website content.
+
+## 7. Children's Privacy
+
+The App is not intended for use by children under the age of 13. We do not knowingly collect personal information from children.
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Updates will be posted on this page.
+
+## 9. Contact
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+Email: [support@example.com](mailto:support@example.com)
